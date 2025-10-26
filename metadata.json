@@ -1,0 +1,5 @@
+{
+  "name": "Agente de Viagens IA",
+  "description": "Um agente de IA que encontra as melhores ofertas de voos com base no seu destino e na duração da sua viagem. As opções de voo são geradas pela IA para fins de demonstração.",
+  "requestFramePermissions": []
+}
